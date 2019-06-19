@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ApacheConf",
+		"Color Highlighter",
+		"Color Scheme - Thunderstorm",
+		"Emmet",
+		"Hover Image Preview",
+		"HTML-CSS-JS Prettify",
+		"JSX",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"Sass",
+		"Sync View Scroll",
+		"Terminal",
+		"Terminus",
+		"WakaTime"
+	]
+}
