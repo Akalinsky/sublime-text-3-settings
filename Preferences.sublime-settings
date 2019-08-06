@@ -20,5 +20,15 @@
 		"draw_active"
 	],
 	"scroll_past_end": true,
+<<<<<<< HEAD
 	"theme": "Adaptive.sublime-theme"
+=======
+	"theme": "Adaptive.sublime-theme",
+	"folder_exclude_patterns": ["node_modules",".git",".hg"],
+	"remember_full_screen": true,
+	"hot_exit": false, 
+	"remember_open_files": false
+
+
+>>>>>>> a2500b2645dc8eac3ee83c14afb05d786deb2c17
 }
