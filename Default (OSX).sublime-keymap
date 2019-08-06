@@ -1,3 +1,6 @@
 [
 	{ "keys": ["alt+`"], "command": "toggle_terminus_panel" },
+	{ "keys": ["super+v"], "command": "paste_and_indent" },
+	{ "keys": ["super+shift+v"], "command": "paste" }
+
 ]
