@@ -1,4 +1,5 @@
 * 
+!.gitignore
 !A File Icon.sublime-settings
 !ApacheConf.sublime-settings
 !CSS.sublime-settings
@@ -11,3 +12,6 @@
 !Preferences.sublime-settings
 !SCSS.sublime-settings
 !WakaTime.sublime-settings
+Package Control.cache/*
+Package Control.merged-ca-bundle
+Package Control.last-run
