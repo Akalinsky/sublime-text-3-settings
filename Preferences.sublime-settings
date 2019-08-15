@@ -10,6 +10,7 @@
 	],
 	"font_size": 11,
 	"highlight_line": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -19,11 +20,8 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"scroll_past_end": true,
-	"theme": "Adaptive.sublime-theme",
-	"folder_exclude_patterns": ["node_modules",".git",".hg"],
 	"remember_full_screen": true,
-	"hot_exit": false, 
-	"remember_open_files": false
-
+	"remember_open_files": false,
+	"scroll_past_end": true,
+	"theme": "Adaptive.sublime-theme"
 }
