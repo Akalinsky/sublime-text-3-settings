@@ -2,6 +2,15 @@
 	"bold_folder_labels": false,
 	"caret_extra_width": 2,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+	"extra_folder_exclude_patterns":
+	[
+		"node_modules",
+		".git",
+		".hg"
+	],
+	"file_exclude_patterns":
+	[
+	],
 	"folder_exclude_patterns":
 	[
 		"node_modules",

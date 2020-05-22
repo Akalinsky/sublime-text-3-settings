@@ -9,16 +9,22 @@
 		"ApacheConf",
 		"Color Highlight",
 		"Color Scheme - Thunderstorm",
+		"ColorSchemeEditor",
+		"EditorConfig",
 		"Emmet",
-		"Hover Image Preview",
-		"HTML-CSS-JS Prettify",
-		"JSX",
+		"ImagePreview",
+		"JavaScript Completions",
+		"JSON Reindent",
+		"JSONLint",
 		"Material Theme",
 		"Material Theme - Appbar",
 		"Package Control",
 		"Sass",
+		"Simple JSX",
 		"SublimeLinter",
 		"Sync View Scroll",
-		"Terminus"
+		"Terminus",
+		"Vue Syntax Highlight",
+		"Xdebug Client"
 	]
 }
